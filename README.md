@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Juste GOUNGOUNGA](https://jgoungounga.github.io/) is an Associate Professor of Biostatistics and Health Data Science at the Ecole des Hautes Etudes en Santé Publique ( EHESP) and a researcher at the ARENES Laboratory (UMR CNRS 6051), affiliated with the INSERM U1309 team on “Research on Health Services and Management in Health” (RSMS). He has held this position since October 2022.
+[Juste GOUNGOUNGA](https://jgoungounga.github.io/) is an Associate Professor of Biostatistics and Health Data Science at the Ecole des Hautes Etudes en Santé Publique (EHESP) and a researcher at the ARENES Laboratory (UMR CNRS 6051), affiliated with the INSERM U1309 team on “Research on Health Services and Management in Health” (RSMS). He has held this position since October 2022.
 
 At EHESP, Dr. GOUNGOUNGA teaches courses on various topics, including French hospital discharge databases ( PMSI), and supervises students. He is also a member of the CENSUR working survival group. His research specializes in statistical methods for epidemiology, particularly non-communicable diseases like cancer, with a focus on identifying and quantifying health inequalities.
 
